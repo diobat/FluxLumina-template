@@ -8,7 +8,7 @@ Welcome to the FluxLumina Example Project! This repository serves as a template 
 ## Getting Started
 
 ### Prerequisites
-- Ensure you have OpenGL installed on your system.
+- openGL (Modern OSes already come with it)
 - A C++ compiler and CMake.
 
 ### Usage
