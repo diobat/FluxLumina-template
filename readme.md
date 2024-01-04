@@ -1,9 +1,9 @@
 
 
-# FluxLumina Example Project
+# FluxLumina Template Project
 
 ## Overview
-Welcome to the FluxLumina Example Project! This repository serves as a template to demonstrate the capabilities of [FluxLumina](https://github.com/diobat/FluxLumina), an OpenGL-based static library designed for high-performance graphics applications. 
+Welcome to the FluxLumina Template Project! This repository serves as a template to demonstrate the capabilities of [FluxLumina](https://github.com/diobat/FluxLumina), an OpenGL-based static library designed for high-performance graphics applications. 
 
 ## Getting Started
 
