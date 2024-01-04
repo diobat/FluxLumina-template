@@ -29,7 +29,7 @@ include(FetchContent)
 FetchContent_Declare(
   FluxLumina
   GIT_REPOSITORY 	https://github.com/diobat/FluxLumina.git
-  GIT_TAG        	release-candidate
+  GIT_TAG         Release
 )
 FetchContent_MakeAvailable(FluxLumina)
 target_link_libraries(${PROJECT_NAME} PRIVATE FluxLumina)
