@@ -26,8 +26,14 @@ mkdir build
 # Configure the build
 cmake -S . -B build
 
-# Build binaries
+# Build target
 cmake --build build --config Release
+
+# Go into target folder
+cd build/Release
+
+# Run the target
+./FluxLumina_Playground.exe
 ```
 
 ## Acknowledgments
