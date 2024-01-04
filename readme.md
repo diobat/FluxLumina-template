@@ -34,7 +34,7 @@ cmake --build build --config Release
 cd build/Release
 
 # Run the target
-./FluxLumina_Playground.exe
+./FL_Playground.exe
 ```
 
 ## Acknowledgments
