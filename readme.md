@@ -9,7 +9,8 @@ Welcome to the FluxLumina Example Project! This repository serves as a template 
 
 ### Prerequisites
 - openGL (Modern OSes already come with it)
-- A C++ compiler and CMake.
+- CMake (version 3.23 or higher)
+- A C++ compiler
 
 ### Usage
 
