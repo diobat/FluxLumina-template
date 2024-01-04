@@ -13,13 +13,12 @@ Welcome to the FluxLumina Example Project! This repository serves as a template 
 
 ### Usage
 
-
 ```bash
 # Clone the repository
 git clone https://github.com/diobat/FluxLumina-template.git
 
 # Go to the project directory
-cd FluxLumina
+cd FluxLumina-template
 
 # Create a build directory
 mkdir build
