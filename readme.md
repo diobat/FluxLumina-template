@@ -16,7 +16,7 @@ Welcome to the FluxLumina Example Project! This repository serves as a template 
 
 ```bash
 # Clone the repository
-git clone https://github.com/diobat/FluxLumina.git
+git clone https://github.com/diobat/FluxLumina-template.git
 
 # Go to the project directory
 cd FluxLumina
